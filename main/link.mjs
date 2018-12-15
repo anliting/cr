@@ -8,4 +8,4 @@ async function link(input,file){
         format:'es',
     })
 }
-link(`cr/src/cr.mjs`,`cr/dist/cr.mjs`)
+link(`cr.mjs`,`cr.static.mjs`)
