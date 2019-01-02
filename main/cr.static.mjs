@@ -16,7 +16,7 @@ function unescape(s){
                         parseInt(m.substring(2,m.length-1),10)
                 )
             :
-                cRList[m[0].substring(1,m.length-1)]
+                cRList[m.substring(1,m.length-1)]
     )
 }
 
