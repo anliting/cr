@@ -1,0 +1,5 @@
+{
+    "name":"@anliting/cr",
+    "version":"1.0.0",
+    "main":"main/cr.static.mjs"
+}
