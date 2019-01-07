@@ -1,7 +1,3 @@
-/*
-https://www.w3.org/TR/2017/REC-html52-20171214/syntax.html#named-character-references
-https://www.w3.org/TR/2017/REC-html52-20171214/entities.json
-*/
 import cRList from './cRList.mjs'
 function unescape(s){
     return s.replace(
